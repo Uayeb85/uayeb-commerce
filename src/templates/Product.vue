@@ -29,7 +29,7 @@
                                   :data-item-name="$page.product.title"
                                   :data-item-price="$page.product.price"
                                   :data-item-image="$page.product.ecommerceImage"
-                                  :data-item-url="'uayeb-commerce.netlify.app' + $page.product.path"
+                                  :data-item-url="'https://uayeb-commerce.netlify.app/' + $page.product.path"
                                   :data-item-description="$page.product.about"
                                   data-item-has-taxes-included="true"
                                   data-item-custom1-name="Long message"
